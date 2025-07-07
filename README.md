@@ -2,9 +2,10 @@
 
 This is a single-page HTML CV created using semantic HTML. The project demonstrates the use of structured HTML elements, SEO meta tags, Open Graph tags for social media previews, and favicon integration. It is deployed using GitHub Pages.
 
-## Live Project
+## Project URL
 
-[Live Project URL](https://harshcodes05.github.io/cv-harsh/)
+[https://harshcodes05.github.io/cv-harsh/](https://harshcodes05.github.io/cv-harsh/)
+
 
 ## Features
 
