@@ -4,7 +4,8 @@ This is a single-page HTML CV created using semantic HTML. The project demonstra
 
 ## Project URL
 
-[https://harshcodes05.github.io/cv-harsh/](https://harshcodes05.github.io/cv-harsh/)
+Project URL: https://harshcodes05.github.io/cv-harsh/
+
 
 
 ## Features
